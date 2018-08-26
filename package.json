@@ -1,6 +1,6 @@
 {
     "name": "greggernaut-theme",
-    "description": "A clean, minimal default theme for the Ghost publishing platform",
+    "description": "Custom theme for greggernaut.com. It's the same as default, but greener!",
     "demo": "https://demo.ghost.io",
     "version": "3.0.5",
     "engines": {
