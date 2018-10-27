@@ -2139,11 +2139,6 @@ Usage (In Ghost editor):
     }
 }
 
-/** Custom to make sequential galleries appear next to each other*/
-figure.kg-gallery-card {
-    margin: 0.75em 0 0;
-}
-
 .kg-gallery-container {
     display: flex;
     flex-direction: column;
