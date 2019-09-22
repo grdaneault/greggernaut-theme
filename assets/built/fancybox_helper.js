@@ -1,2 +1,2 @@
-!function(t){t(".kg-gallery-image img").each(function(e,r){var a,p;console.log(r),a=r,p="gallery",wrapper=document.createElement("a"),t(wrapper).attr("href",a.src),t(wrapper).attr("data-fancybox",p),t(wrapper).insertBefore(t(a)),t(wrapper).append(t(a))})}($);
+!function(a){a(".kg-gallery-image img").each(function(e,r){console.log(r),function(e,r){wrapper=document.createElement("a"),a(wrapper).attr("href",e.src),a(wrapper).attr("data-fancybox",r),a(wrapper).insertBefore(a(e)),a(wrapper).append(a(e))}(r,"gallery")})}($);
 //# sourceMappingURL=fancybox_helper.js.map
