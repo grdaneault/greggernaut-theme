@@ -655,7 +655,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .post-card-primary-tag {
     margin: 0 0 0.2em;
-    color: var(--blue);
+    color: var(--green);
     font-size: 1.2rem;
     font-weight: 500;
     letter-spacing: 0.2px;
@@ -1010,7 +1010,6 @@ make sure this only happens on large viewports / desktop-ish devices.
     font-family: 'Open Sans', sans-serif;
     font-size: 2.0rem;
     line-height: 1.6em;
-    background: #f6f6f6;
 }
 
 @media (max-width: 1170px) {
@@ -1091,7 +1090,7 @@ make sure this only happens on large viewports / desktop-ish devices.
 .post-full-content a:hover {
     color: var(--green);
     text-decoration: none;
-    box-shadow: var(--blue) 0 -1px 0 inset;
+    box-shadow: var(--green) 0 -1px 0 inset;
 }
 
 .post-full-content strong,
